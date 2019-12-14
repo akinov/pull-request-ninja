@@ -28,6 +28,5 @@
     "default_title": "PR Ninja",
     "matches": ["https://github.com/*/*/pulls", "https://github.com/*/*/pull/*"]
   },
-  // "options_page": "pages/options.html",
   "manifest_version": 2
 }
